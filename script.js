@@ -43,7 +43,7 @@ function millisecondsToDate() {
     const msConverted = new Date(milliseconds);
     return msConverted;
 }
-console.log(millisecondsToDate());
+// console.log(millisecondsToDate());
 
 
 // Função para converter horário que está em string para formato reconhecido pelo JS
